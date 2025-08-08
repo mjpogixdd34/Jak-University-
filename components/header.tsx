@@ -115,9 +115,7 @@ export default function Header() {
           <div className="flex items-center justify-between h-16 lg:h-20">
             {/* Logo */}
             <Link href="/" className="flex items-center space-x-3">
-              <div className="w-10 h-10 lg:w-12 lg:h-12 bg-almond rounded-full flex items-center justify-center">
-                <span className="text-navy font-bold text-lg lg:text-xl">JRU</span>
-              </div>
+              <img src="/logo.jpg" alt="JAK University Logo" className="w-12 h-12 lg:w-16 lg:h-16" />
               <div className="hidden sm:block">
                 <h1 className="text-ivory font-bold text-lg lg:text-xl">Jak Roberto University</h1>
                 <p className="text-mist text-xs lg:text-sm">Excellence • Innovation • Service</p>
