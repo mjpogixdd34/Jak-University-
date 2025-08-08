@@ -22,7 +22,7 @@ const heroSlides = [
     subtitle: "Pioneer the Gaming Industry",
     description:
       "Join the fastest-growing industry with comprehensive training in competitive gaming, management, and technology.",
-    image: "/placeholder-w4w2i.png",
+    image: "/innovation-lab-equipment.png",
     cta: "Join Esports Program",
     link: "/academics/programs/bs-esports",
   },
@@ -50,7 +50,7 @@ const heroSlides = [
     title: "BS in Customs Administration",
     subtitle: "Master International Trade",
     description: "Navigate global commerce and customs regulations in our comprehensive trade program.",
-    image: "/placeholder-a9f37.png",
+    image: "/international-students-collaboration.png",
     cta: "Learn Customs Administration",
     link: "/academics/programs/bs-customs-administration",
   },

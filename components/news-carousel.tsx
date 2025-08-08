@@ -32,7 +32,7 @@ const newsItems = [
     title: "SDG Publication Launch: Sustainable Future",
     excerpt:
       "University publishes comprehensive research on sustainable development goals and environmental conservation.",
-    image: "/placeholder-0jnpq.png",
+    image: "/tech-innovation-summit.png",
     date: "2025-01-10",
     location: "Main Auditorium",
     category: "Research",

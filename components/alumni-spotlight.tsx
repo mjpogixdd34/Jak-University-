@@ -5,7 +5,7 @@ const spotlightAlumni = [
     degree: "BS Information Technology",
     currentPosition: "Senior Software Engineer at Google",
     achievement: "Led the development of AI-powered accessibility features used by millions",
-    image: "/alumni-maria-santos.png",
+    image: "/successful-graduates-ceremony.png",
     quote: "JRU gave me the technical foundation and confidence to pursue my dreams in tech.",
   },
   {
@@ -14,7 +14,7 @@ const spotlightAlumni = [
     degree: "BS Business Administration",
     currentPosition: "CEO & Founder of EcoTech Solutions",
     achievement: "Built a sustainable technology company valued at $50M",
-    image: "/alumni-carlos-rodriguez.png",
+    image: "/tech-innovation-summit.png",
     quote: "The entrepreneurship program at JRU taught me to think big and act responsibly.",
   },
   {
@@ -23,7 +23,7 @@ const spotlightAlumni = [
     degree: "BS Environmental Science",
     currentPosition: "Climate Research Scientist at NOAA",
     achievement: "Published groundbreaking research on climate change adaptation",
-    image: "/alumni-ana-cruz.png",
+    image: "/environmental-research.png",
     quote: "JRU's environmental program prepared me to tackle the world's biggest challenges.",
   },
 ]
